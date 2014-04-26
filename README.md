@@ -1,4 +1,4 @@
-goircserver
+gowiki
 ===========
 
-Server for irc written in go
+Wiki written in go
