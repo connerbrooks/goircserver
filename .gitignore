@@ -21,3 +21,6 @@ _testmain.go
 
 *.exe
 *.test
+
+# ignore text files program creates
+*.txt
