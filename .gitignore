@@ -24,3 +24,5 @@ _testmain.go
 
 # ignore text files program creates
 *.txt
+
+wiki
